@@ -1,0 +1,17 @@
+---
+layout:     post
+title:      "Welcome to Tuzy Blog"
+subtitle:   " \"Hello World, Hello Blog\""
+date:       2016-07-21 14:46:00
+author:     "TuZY"
+header-img: "img/post-bg-2015.jpg"
+tags:
+    - 相册
+    - 生活
+---
+
+> “Yeah It's on. ”
+
+# 放相册的地方
+
+![image](/img/moon01.jpg)
