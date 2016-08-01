@@ -8,8 +8,7 @@ header-img: "img/post-bg-2015.jpg"
 tags:
     - 相册
     - 生活
-duoshuo_username: tuzhengyang
-duoshuo_share: false
+
 ---
 
 > “Yeah It's on. ”
