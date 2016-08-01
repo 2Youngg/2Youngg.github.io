@@ -15,4 +15,4 @@ tags:
 
 # 放相册的地方
 
-![image](/img/moon01.jpg)
+![java-javascript](/img/in-post/post-js-version/moon01.jpg)
