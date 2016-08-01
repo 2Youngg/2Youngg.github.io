@@ -15,7 +15,8 @@ tags:
 
 # 放相册的地方
 
-![java-javascript](/img/in-post/post-js-version/moon01.jpg)
-![java-javascript](/img/in-post/post-js-version/javascript-java.jpg)
+
 <img class="shadow" width="320" src="/img/in-post/post-js-version/keep-calm-and-learn-javascript.png" />
+<small class="img-hint">来学 JavaScript 吧！</small>
+<img class="shadow" width="320" src="/img/in-post/post-js-version/moon01.jpg" />
 <small class="img-hint">来学 JavaScript 吧！</small>
